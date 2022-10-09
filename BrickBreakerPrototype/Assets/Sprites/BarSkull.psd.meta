@@ -1,0 +1,2924 @@
+fileFormatVersion: 2
+guid: a4a355fd717eaff4487f7ae3c35f6e56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4554406480469206948
+    second: BarSkull_0
+  - first:
+      213: 3004515282681066229
+    second: BarSkull_1
+  - first:
+      213: 5987865390739173101
+    second: BarSkull_2
+  - first:
+      213: -5426242783272800340
+    second: BarSkull_3
+  - first:
+      213: -971253373762354214
+    second: BarSkull_4
+  - first:
+      213: 2114576443226652524
+    second: BarSkull_5
+  - first:
+      213: -7623492868692397697
+    second: BarSkull_6
+  - first:
+      213: -1324155011302021898
+    second: BarSkull_7
+  - first:
+      213: 1518152220274241881
+    second: BarSkull_8
+  - first:
+      213: 2923024089563910100
+    second: BarSkull_9
+  - first:
+      213: -854108540080043685
+    second: BarSkull_10
+  - first:
+      213: -8155446728241102625
+    second: BarSkull_11
+  - first:
+      213: -7190723843487975617
+    second: BarSkull_12
+  - first:
+      213: 8961217374929109878
+    second: BarSkull_13
+  - first:
+      213: 4648907718212438700
+    second: BarSkull_14
+  - first:
+      213: 674121908244540758
+    second: BarSkull_15
+  - first:
+      213: -1404900153749657442
+    second: BarSkull_16
+  - first:
+      213: 7318733174968344100
+    second: BarSkull_17
+  - first:
+      213: 2868629548929653174
+    second: BarSkull_18
+  - first:
+      213: 6627586327615694065
+    second: BarSkull_19
+  - first:
+      213: 605524366657773878
+    second: BarSkull_20
+  - first:
+      213: 3562678308323463084
+    second: BarSkull_21
+  - first:
+      213: 6898772221677211242
+    second: BarSkull_22
+  - first:
+      213: 2996651505732933602
+    second: BarSkull_23
+  - first:
+      213: 7390944982890556159
+    second: BarSkull_24
+  - first:
+      213: 2463201335846804809
+    second: BarSkull_25
+  - first:
+      213: 9108907885687376445
+    second: BarSkull_26
+  - first:
+      213: -2574789266061237912
+    second: BarSkull_27
+  - first:
+      213: -298070575477535646
+    second: BarSkull_28
+  - first:
+      213: -7073738553842128301
+    second: BarSkull_29
+  - first:
+      213: 307005234150503548
+    second: BarSkull_30
+  - first:
+      213: -2078733009131589820
+    second: BarSkull_31
+  - first:
+      213: -5758024498978968006
+    second: BarSkull_32
+  - first:
+      213: -1591465724206173907
+    second: BarSkull_33
+  - first:
+      213: 6040013042463237121
+    second: BarSkull_34
+  - first:
+      213: -438322021419840091
+    second: BarSkull_35
+  - first:
+      213: -2574887635034343644
+    second: BarSkull_36
+  - first:
+      213: 6065291596637961844
+    second: BarSkull_37
+  - first:
+      213: 8318843669772109271
+    second: BarSkull_38
+  - first:
+      213: 5638491318935085690
+    second: BarSkull_39
+  - first:
+      213: -1601899397725937411
+    second: BarSkull_40
+  - first:
+      213: -2187690737456877627
+    second: BarSkull_41
+  - first:
+      213: -5668442235884526634
+    second: BarSkull_42
+  - first:
+      213: -8244855789073923351
+    second: BarSkull_43
+  - first:
+      213: -5119391733132159460
+    second: BarSkull_44
+  - first:
+      213: 623241960692248947
+    second: BarSkull_45
+  - first:
+      213: 3784996698591928962
+    second: BarSkull_46
+  - first:
+      213: -6917563887244155045
+    second: BarSkull_47
+  - first:
+      213: 1600349125354944230
+    second: BarSkull_48
+  - first:
+      213: -436717110684991250
+    second: BarSkull_49
+  - first:
+      213: 306684667012185435
+    second: BarSkull_50
+  - first:
+      213: 3621519033419224307
+    second: BarSkull_51
+  - first:
+      213: 2262849280387348258
+    second: BarSkull_52
+  - first:
+      213: -816624109935371322
+    second: BarSkull_53
+  - first:
+      213: 8281502435669508152
+    second: BarSkull_54
+  - first:
+      213: -8561632302149979209
+    second: BarSkull_55
+  - first:
+      213: 5144781073709751526
+    second: BarSkull_56
+  - first:
+      213: -1113183782699259773
+    second: BarSkull_57
+  - first:
+      213: -2187027320519321145
+    second: BarSkull_58
+  - first:
+      213: -5809502375252975463
+    second: BarSkull_59
+  - first:
+      213: 6924206342746894580
+    second: BarSkull_60
+  - first:
+      213: -7022076371973670364
+    second: BarSkull_61
+  - first:
+      213: 8530603723314904325
+    second: BarSkull_62
+  - first:
+      213: -292672611873007192
+    second: BarSkull_63
+  - first:
+      213: 5343065153935631053
+    second: BarSkull_64
+  - first:
+      213: 4670109170010993375
+    second: BarSkull_65
+  - first:
+      213: -6184956071363209067
+    second: BarSkull_66
+  - first:
+      213: 7751541759241344386
+    second: BarSkull_67
+  - first:
+      213: -8023385410550504328
+    second: BarSkull_68
+  - first:
+      213: -7633157369195698836
+    second: BarSkull_69
+  - first:
+      213: -4024793301881401621
+    second: BarSkull_70
+  - first:
+      213: 6723555792681879420
+    second: BarSkull_71
+  - first:
+      213: -5050130477330361059
+    second: BarSkull_72
+  - first:
+      213: 649552699177812553
+    second: BarSkull_73
+  - first:
+      213: -4712369624222195694
+    second: BarSkull_74
+  - first:
+      213: 6509903249684125545
+    second: BarSkull_75
+  - first:
+      213: -8062704910497563985
+    second: BarSkull_76
+  - first:
+      213: 5812971388254179859
+    second: BarSkull_77
+  - first:
+      213: -430025867958985706
+    second: BarSkull_78
+  - first:
+      213: 1223355601276714150
+    second: BarSkull_79
+  - first:
+      213: -7107528539697702309
+    second: BarSkull_80
+  - first:
+      213: 2160742525655360622
+    second: BarSkull_81
+  - first:
+      213: -5412155548532040706
+    second: BarSkull_82
+  - first:
+      213: 5031138919935241666
+    second: BarSkull_83
+  - first:
+      213: 718914501077084545
+    second: BarSkull_84
+  - first:
+      213: 4837081274956391671
+    second: BarSkull_85
+  - first:
+      213: -8221584102572708447
+    second: BarSkull_86
+  - first:
+      213: 3861290437606182702
+    second: BarSkull_87
+  - first:
+      213: 7157377414596241840
+    second: BarSkull_88
+  - first:
+      213: 2587698373535532888
+    second: BarSkull_89
+  - first:
+      213: -3550863955947422470
+    second: BarSkull_90
+  - first:
+      213: -7519788365595846774
+    second: BarSkull_91
+  - first:
+      213: -289373719835529807
+    second: BarSkull_92
+  - first:
+      213: 1666855269306038216
+    second: BarSkull_93
+  - first:
+      213: 4472340891996027062
+    second: BarSkull_94
+  - first:
+      213: -7797640138417120062
+    second: BarSkull_95
+  - first:
+      213: -5005126027996531311
+    second: BarSkull_96
+  - first:
+      213: -4488282606394165183
+    second: BarSkull_97
+  - first:
+      213: 8619910959988345898
+    second: BarSkull_98
+  - first:
+      213: -5351678751672206
+    second: BarSkull_99
+  - first:
+      213: -3115160183647695377
+    second: BarSkull_100
+  - first:
+      213: 3781351940761529508
+    second: BarSkull_101
+  - first:
+      213: -375191484127036397
+    second: BarSkull_102
+  - first:
+      213: -8171846472379171161
+    second: BarSkull_103
+  - first:
+      213: -6881750441263951627
+    second: BarSkull_104
+  - first:
+      213: 3998793684105273027
+    second: BarSkull_105
+  - first:
+      213: -9012695999754786734
+    second: BarSkull_106
+  - first:
+      213: -6115223847413384509
+    second: BarSkull_107
+  - first:
+      213: 7574429030957994437
+    second: BarSkull_108
+  - first:
+      213: 3995799593686402983
+    second: BarSkull_109
+  - first:
+      213: 7366113318465691335
+    second: BarSkull_110
+  - first:
+      213: 2107597736317245452
+    second: BarSkull_111
+  - first:
+      213: -3962351597644717896
+    second: BarSkull_112
+  - first:
+      213: 3482991890978108093
+    second: BarSkull_113
+  - first:
+      213: -4087898328391547786
+    second: BarSkull_114
+  - first:
+      213: 8724735932941873805
+    second: BarSkull_115
+  - first:
+      213: 5056629910905696767
+    second: BarSkull_116
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BarSkull_0
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 507
+        width: 374
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5855e0bf6f7bc0c0800000000000000
+      internalID: -4554406480469206948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 742
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2ff622bbe22b920800000000000000
+      internalID: 3004515282681066229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_2
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 728
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee2dd909db291350800000000000000
+      internalID: 5987865390739173101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_3
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 687
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf6ff520fc12b4b0800000000000000
+      internalID: -5426242783272800340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_4
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 592
+        width: 448
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3cef5d33a6582f0800000000000000
+      internalID: -971253373762354214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_5
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 721
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ffee4521c785d10800000000000000
+      internalID: 2114576443226652524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_6
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 734
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71bddd70a9e33690800000000000000
+      internalID: -7623492868692397697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_7
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 720
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f42acb6808af9de0800000000000000
+      internalID: -1324155011302021898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_8
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 756
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951ba6c966f811510800000000000000
+      internalID: 1518152220274241881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_9
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 742
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfcd503ceaa09820800000000000000
+      internalID: 2923024089563910100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_10
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 747
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59c6ecdec89524f0800000000000000
+      internalID: -854108540080043685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_11
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 775
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0419af86802de80800000000000000
+      internalID: -8155446728241102625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_12
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 728
+        width: 14
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b7fe23ca653c90800000000000000
+      internalID: -7190723843487975617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 691
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67345b359b3ac5c70800000000000000
+      internalID: 8961217374929109878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_14
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 717
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caacf9150fc348040800000000000000
+      internalID: 4648907718212438700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_15
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 719
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d693ccd46fa5900800000000000000
+      internalID: 674121908244540758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_16
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 700
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e982cdee0cac08ce0800000000000000
+      internalID: -1404900153749657442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_17
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 704
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42edadbdb0d519560800000000000000
+      internalID: 7318733174968344100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_18
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 693
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b91428406b6fc720800000000000000
+      internalID: 2868629548929653174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_19
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 692
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4e4c786aae9fb50800000000000000
+      internalID: 6627586327615694065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_20
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 678
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631ea790431476800800000000000000
+      internalID: 605524366657773878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_21
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 683
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf0c98ab0d217130800000000000000
+      internalID: 3562678308323463084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_22
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 661
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e076bc8cc5dbf50800000000000000
+      internalID: 6898772221677211242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_23
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 673
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7d9d2eaae369920800000000000000
+      internalID: 2996651505732933602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_24
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 669
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaa5a39d49e19660800000000000000
+      internalID: 7390944982890556159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_25
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 638
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d9a69709c0f2220800000000000000
+      internalID: 2463201335846804809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_26
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 626
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a86220677596e70800000000000000
+      internalID: 9108907885687376445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_27
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 614
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8616ee8edc2844cd0800000000000000
+      internalID: -2574789266061237912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_28
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 631
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c4aae046a0ddbf0800000000000000
+      internalID: -298070575477535646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_29
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 645
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a2148734805dd90800000000000000
+      internalID: -7073738553842128301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_30
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 641
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74f9b542a3b24400800000000000000
+      internalID: 307005234150503548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_31
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 598
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f25df775bd623e0800000000000000
+      internalID: -2078733009131589820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_32
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 620
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eac5ab9336710b0800000000000000
+      internalID: -5758024498978968006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_33
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 618
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d213b741b5af9e9e0800000000000000
+      internalID: -1591465724206173907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_34
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 622
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1046fba5cdf62d350800000000000000
+      internalID: 6040013042463237121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_35
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 628
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad0a00a174cae9f0800000000000000
+      internalID: -438322021419840091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_36
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 625
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4277b399659244cd0800000000000000
+      internalID: -2574887635034343644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_37
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 597
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e74c4629e3c2450800000000000000
+      internalID: 6065291596637961844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_38
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 621
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d506c61e38727370800000000000000
+      internalID: 8318843669772109271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_39
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 611
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72ef360bf1ff3e40800000000000000
+      internalID: 5638491318935085690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_40
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 626
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df022a82cf8e4c9e0800000000000000
+      internalID: -1601899397725937411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_41
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 626
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf687b7dd2c3a1e0800000000000000
+      internalID: -2187690737456877627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_42
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 618
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d32844b1d5a551b0800000000000000
+      internalID: -5668442235884526634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_43
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 624
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e20debc753649d80800000000000000
+      internalID: -8244855789073923351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_44
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 625
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c161698a75444f8b0800000000000000
+      internalID: -5119391733132159460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_45
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 606
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371fd2cd24336a800800000000000000
+      internalID: 623241960692248947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_46
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 603
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282299f8172078430800000000000000
+      internalID: 3784996698591928962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_47
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 609
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57edbd9b40efff90800000000000000
+      internalID: -6917563887244155045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_48
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 606
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6736dec05953610800000000000000
+      internalID: 1600349125354944230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_49
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 611
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee049460a1870f9f0800000000000000
+      internalID: -436717110684991250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_50
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 608
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5df15b6410914400800000000000000
+      internalID: 306684667012185435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_51
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 611
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d44e8f58324230800000000000000
+      internalID: 3621519033419224307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_52
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 602
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2277cb17e61476f10800000000000000
+      internalID: 2262849280387348258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_53
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 586
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb584cd2b4caa4f0800000000000000
+      internalID: -816624109935371322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_54
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 602
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8300d94869ecde270800000000000000
+      internalID: 8281502435669508152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_55
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 598
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b337dc58c8fe2980800000000000000
+      internalID: -8561632302149979209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_56
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 580
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec5f99d02fe56740800000000000000
+      internalID: 5144781073709751526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_57
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 484
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3882c7e5f3d2d80f0800000000000000
+      internalID: -1113183782699259773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_58
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 305
+        width: 185
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c91f564d3e16a1e0800000000000000
+      internalID: -2187027320519321145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_59
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 488
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9902249ae50806fa0800000000000000
+      internalID: -5809502375252975463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_60
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 406
+        width: 194
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f07fe29bf8b71060800000000000000
+      internalID: 6924206342746894580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_61
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 498
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a78d68eb29c8e90800000000000000
+      internalID: -7022076371973670364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_62
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 465
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d3fc7a3eac26670800000000000000
+      internalID: 8530603723314904325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_63
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 469
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d2d56fc730fbf0800000000000000
+      internalID: -292672611873007192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_64
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 479
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2e910e271662a40800000000000000
+      internalID: 5343065153935631053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_65
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 480
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2bcccfb8f8fc040800000000000000
+      internalID: 4670109170010993375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_66
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 431
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598100fe83f9a2aa0800000000000000
+      internalID: -6184956071363209067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_67
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 462
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285df2d1922039b60800000000000000
+      internalID: 7751541759241344386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_68
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 435
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874e5149a7537a090800000000000000
+      internalID: -8023385410550504328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_69
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 449
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c656f6e90d3911690800000000000000
+      internalID: -7633157369195698836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 415
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeccf2f0df0528c0800000000000000
+      internalID: -4024793301881401621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_71
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 435
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77c25ade5ede4d50800000000000000
+      internalID: 6723555792681879420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_72
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 421
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15995d66155ae9b0800000000000000
+      internalID: -5050130477330361059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_73
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 424
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c3690dbca30900800000000000000
+      internalID: 649552699177812553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_74
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 417
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21025e14bcc4a9eb0800000000000000
+      internalID: -4712369624222195694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_75
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 370
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967559fb382d75a50800000000000000
+      internalID: 6509903249684125545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 400
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faabef81a948b1090800000000000000
+      internalID: -8062704910497563985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_77
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 354
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312566edda2dba050800000000000000
+      internalID: 5812971388254179859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_78
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 345
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c531060cd380af0800000000000000
+      internalID: -430025867958985706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_79
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 363
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac3510107b3af010800000000000000
+      internalID: 1223355601276714150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_80
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 357
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a1e50537cfc5d90800000000000000
+      internalID: -7107528539697702309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_81
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 369
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a4c401ef7cfd10800000000000000
+      internalID: 2160742525655360622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_82
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 282
+        width: 183
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb9694143924e4b0800000000000000
+      internalID: -5412155548532040706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_83
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 340
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cde16a013232d540800000000000000
+      internalID: 5031138919935241666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_84
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 359
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a3940ee81af900800000000000000
+      internalID: 718914501077084545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_85
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 353
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f42877aac3c02340800000000000000
+      internalID: 4837081274956391671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_86
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 339
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada72b81d017ed80800000000000000
+      internalID: -8221584102572708447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_87
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 340
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f012ce13f069530800000000000000
+      internalID: 3861290437606182702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_88
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 347
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9a96056dc145360800000000000000
+      internalID: 7157377414596241840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_89
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 330
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8570174e5f959e320800000000000000
+      internalID: 2587698373535532888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_90
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 286
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcf30c9b0cc8bec0800000000000000
+      internalID: -3550863955947422470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_91
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 327
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a875b82b25854a790800000000000000
+      internalID: -7519788365595846774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 324
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdaedd8220fbfbf0800000000000000
+      internalID: -289373719835529807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_93
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 319
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c779fa390cd12710800000000000000
+      internalID: 1666855269306038216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_94
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 331
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b870e58852f01e30800000000000000
+      internalID: 4472340891996027062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_95
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 298
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd1579b9739c390800000000000000
+      internalID: -7797640138417120062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_96
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 316
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195743555683a8ab0800000000000000
+      internalID: -5005126027996531311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_97
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 300
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148bf4adfba66b1c0800000000000000
+      internalID: -4488282606394165183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_98
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 307
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c0a9d095310a770800000000000000
+      internalID: 8619910959988345898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_99
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 306
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278fd013dacfceff0800000000000000
+      internalID: -5351678751672206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_100
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 290
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed0d3b515ab4c4d0800000000000000
+      internalID: -3115160183647695377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_101
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 282
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac23df3e8f0a7430800000000000000
+      internalID: 3781351940761529508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_102
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c3bd1455d0bcaf0800000000000000
+      internalID: -375191484127036397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_103
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 207
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7fcefde4c79e80800000000000000
+      internalID: -8171846472379171161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_104
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 231
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0139b4f6c1f70a0800000000000000
+      internalID: -6881750441263951627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_105
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 208
+        width: 177
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5389624, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce9b2f4ba19e7730800000000000000
+      internalID: 3998793684105273027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_106
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 204
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25828025db87ce280800000000000000
+      internalID: -9012695999754786734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_107
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 221
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca7de48f4c522ba0800000000000000
+      internalID: -6115223847413384509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_108
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 221
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c158a69217cd1960800000000000000
+      internalID: 7574429030957994437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_109
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 198
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7045f4f8ee37730800000000000000
+      internalID: 3995799593686402983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_110
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 186
+        width: 205
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cedb6a2901b93660800000000000000
+      internalID: 7366113318465691335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_111
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 198
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c085b9289f0bf3d10800000000000000
+      internalID: 2107597736317245452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_112
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 209
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06f232736e209c0800000000000000
+      internalID: -3962351597644717896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_113
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 201
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2f051dba2165030800000000000000
+      internalID: 3482991890978108093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_114
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 201
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6740f42012ed447c0800000000000000
+      internalID: -4087898328391547786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_115
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 206
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82361afa1d741970800000000000000
+      internalID: 8724735932941873805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarSkull_116
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 199
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff13620ec12cc2640800000000000000
+      internalID: 5056629910905696767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
